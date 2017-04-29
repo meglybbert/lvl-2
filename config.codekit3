@@ -93,6 +93,16 @@
 		"oAP": "\/build\/html\/scripts.html",
 		"oF": 0
 		},
+	"\/img\/crane.jpg": {
+		"ft": 16384,
+		"iS": 448427,
+		"oA": 0,
+		"oAP": "\/build\/img\/crane.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/img\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
 		"iS": 4894,
