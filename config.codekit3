@@ -190,16 +190,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/waves.jpg": {
-		"ft": 16384,
-		"iS": 2175244,
-		"oA": 0,
-		"oAP": "\/build\/img\/waves.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
 	"\/index.kit": {
 		"ft": 2048,
 		"oA": 0,
@@ -232,162 +222,6 @@
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
-		},
-	"\/sounds\/ah.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/ah.wav",
-		"oF": 0
-		},
-	"\/sounds\/beep-01.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/beep-01.wav",
-		"oF": 0
-		},
-	"\/sounds\/beep-02.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/beep-02.wav",
-		"oF": 0
-		},
-	"\/sounds\/beep-03.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/beep-03.wav",
-		"oF": 0
-		},
-	"\/sounds\/beep-04.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/beep-04.wav",
-		"oF": 0
-		},
-	"\/sounds\/beep-05.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/beep-05.wav",
-		"oF": 0
-		},
-	"\/sounds\/beep-06.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/beep-06.wav",
-		"oF": 0
-		},
-	"\/sounds\/beep-07.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/beep-07.wav",
-		"oF": 0
-		},
-	"\/sounds\/beep-08.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/beep-08.wav",
-		"oF": 0
-		},
-	"\/sounds\/beep-09.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/beep-09.wav",
-		"oF": 0
-		},
-	"\/sounds\/boo.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/boo.wav",
-		"oF": 0
-		},
-	"\/sounds\/boom.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/boom.wav",
-		"oF": 0
-		},
-	"\/sounds\/carp-door.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/carp-door.wav",
-		"oF": 0
-		},
-	"\/sounds\/clap.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/clap.wav",
-		"oF": 0
-		},
-	"\/sounds\/ding.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/ding.wav",
-		"oF": 0
-		},
-	"\/sounds\/harp.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/harp.wav",
-		"oF": 0
-		},
-	"\/sounds\/hihat.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/hihat.wav",
-		"oF": 0
-		},
-	"\/sounds\/key.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/key.wav",
-		"oF": 0
-		},
-	"\/sounds\/kick.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/kick.wav",
-		"oF": 0
-		},
-	"\/sounds\/openhat.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/openhat.wav",
-		"oF": 0
-		},
-	"\/sounds\/pew.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/pew.wav",
-		"oF": 0
-		},
-	"\/sounds\/plane.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/plane.wav",
-		"oF": 0
-		},
-	"\/sounds\/ride.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/ride.wav",
-		"oF": 0
-		},
-	"\/sounds\/snare.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/snare.wav",
-		"oF": 0
-		},
-	"\/sounds\/tink.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/tink.wav",
-		"oF": 0
-		},
-	"\/sounds\/tom.wav": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/build\/sounds\/tom.wav",
-		"oF": 0
 		}
 	},
 "hooks": [
@@ -399,7 +233,7 @@
 	"displayValue": "lvl-2",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 514958191
+	"lastBuiltDate": 515189076
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
