@@ -9,12 +9,6 @@
 	],
 "creatorBuild": "25813",
 "files": {
-	"\/build": {
-		"ft": 65536,
-		"oA": 1,
-		"oAP": "\/build\/build",
-		"oF": 0
-		},
 	"\/css\/_semantic.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -23,7 +17,7 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 1,
-		"oAP": "\/build\/css\/_semantic.css",
+		"oAP": "\/docs\/css\/_semantic.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -36,28 +30,34 @@
 		"ft": 4,
 		"ma": 1,
 		"oA": 0,
-		"oAP": "\/build\/css\/styles.css",
+		"oAP": "\/docs\/css\/styles.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
 		},
+	"\/docs": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "\/docs\/docs",
+		"oF": 0
+		},
 	"\/fonts\/icons.eot": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/fonts\/icons.eot",
+		"oAP": "\/docs\/fonts\/icons.eot",
 		"oF": 0
 		},
 	"\/fonts\/icons.otf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/fonts\/icons.otf",
+		"oAP": "\/docs\/fonts\/icons.otf",
 		"oF": 0
 		},
 	"\/fonts\/icons.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/build\/fonts\/icons.svg",
+		"oAP": "\/docs\/fonts\/icons.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
@@ -66,38 +66,38 @@
 	"\/fonts\/icons.ttf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/fonts\/icons.ttf",
+		"oAP": "\/docs\/fonts\/icons.ttf",
 		"oF": 0
 		},
 	"\/fonts\/icons.woff": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/fonts\/icons.woff",
+		"oAP": "\/docs\/fonts\/icons.woff",
 		"oF": 0
 		},
 	"\/fonts\/icons.woff2": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/fonts\/icons.woff2",
+		"oAP": "\/docs\/fonts\/icons.woff2",
 		"oF": 0
 		},
 	"\/html\/head.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/build\/html\/head.html",
+		"oAP": "\/docs\/html\/head.html",
 		"oF": 0
 		},
 	"\/html\/scripts.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/build\/html\/scripts.html",
+		"oAP": "\/docs\/html\/scripts.html",
 		"oF": 0
 		},
 	"\/img\/crane.jpg": {
 		"ft": 16384,
 		"iS": 448427,
 		"oA": 0,
-		"oAP": "\/build\/img\/crane.jpg",
+		"oAP": "\/docs\/img\/crane.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -107,7 +107,7 @@
 		"ft": 32768,
 		"iS": 4894,
 		"oA": 0,
-		"oAP": "\/build\/img\/favicons\/android-chrome-192x192.png",
+		"oAP": "\/docs\/img\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -118,7 +118,7 @@
 		"ft": 32768,
 		"iS": 12898,
 		"oA": 0,
-		"oAP": "\/build\/img\/favicons\/android-chrome-512x512.png",
+		"oAP": "\/docs\/img\/favicons\/android-chrome-512x512.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -129,7 +129,7 @@
 		"ft": 32768,
 		"iS": 4603,
 		"oA": 0,
-		"oAP": "\/build\/img\/favicons\/apple-touch-icon.png",
+		"oAP": "\/docs\/img\/favicons\/apple-touch-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -139,14 +139,14 @@
 	"\/img\/favicons\/browserconfig.xml": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/img\/favicons\/browserconfig.xml",
+		"oAP": "\/docs\/img\/favicons\/browserconfig.xml",
 		"oF": 0
 		},
 	"\/img\/favicons\/favicon-16x16.png": {
 		"ft": 32768,
 		"iS": 1634,
 		"oA": 0,
-		"oAP": "\/build\/img\/favicons\/favicon-16x16.png",
+		"oAP": "\/docs\/img\/favicons\/favicon-16x16.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -157,7 +157,7 @@
 		"ft": 32768,
 		"iS": 1849,
 		"oA": 0,
-		"oAP": "\/build\/img\/favicons\/favicon-32x32.png",
+		"oAP": "\/docs\/img\/favicons\/favicon-32x32.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -167,13 +167,13 @@
 	"\/img\/favicons\/favicon.ico": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/build\/img\/favicons\/favicon.ico",
+		"oAP": "\/docs\/img\/favicons\/favicon.ico",
 		"oF": 0
 		},
 	"\/img\/favicons\/manifest.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "\/build\/img\/favicons\/manifest-min.json",
+		"oAP": "\/docs\/img\/favicons\/manifest-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -182,7 +182,7 @@
 		"ft": 32768,
 		"iS": 3794,
 		"oA": 0,
-		"oAP": "\/build\/img\/favicons\/mstile-150x150.png",
+		"oAP": "\/docs\/img\/favicons\/mstile-150x150.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -193,7 +193,7 @@
 		"ft": 32768,
 		"iS": 598,
 		"oA": 0,
-		"oAP": "\/build\/img\/menu.png",
+		"oAP": "\/docs\/img\/menu.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
@@ -203,14 +203,14 @@
 	"\/index.kit": {
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/build\/index.html",
+		"oAP": "\/docs\/index.html",
 		"oF": 0
 		},
 	"\/js\/jquery.js": {
 		"ft": 64,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/build\/js\/jquery.js",
+		"oAP": "\/docs\/js\/jquery.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -219,7 +219,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 0,
-		"oAP": "\/build\/js\/scripts.js",
+		"oAP": "\/docs\/js\/scripts.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -228,7 +228,7 @@
 		"ft": 64,
 		"mi": 0,
 		"oA": 1,
-		"oAP": "\/build\/js\/semantic.js",
+		"oAP": "\/docs\/js\/semantic.js",
 		"oF": 0,
 		"sC": 0,
 		"tS": 0
@@ -243,7 +243,7 @@
 	"displayValue": "lvl-2",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 515192629
+	"lastBuiltDate": 516395489
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -499,7 +499,7 @@
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"buildFolderActive": 1,
-	"buildFolderName": "build",
+	"buildFolderName": "docs",
 	"cleanBuild": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -1602,7 +1602,7 @@
 		},
 	"esLintSourceType": 0,
 	"externalServerAddress": "http:\/\/localhost:8888",
-	"gitIgnoreBuildFolder": 1,
+	"gitIgnoreBuildFolder": 0,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
@@ -2350,7 +2350,7 @@
 			}
 		},
 	"uglifyReservedNamesString": "$",
-	"websiteRelativeRoot": "\/build"
+	"websiteRelativeRoot": "\/docs"
 	},
 "settingsFileVersion": "3"
 }
